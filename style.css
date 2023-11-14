@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#Titolo{
+    font-size: 100;
+    font-weight: bold;
+    background-color: white;
+}
+
+#Grandezza{
+    width: 100%;
+    background-color: white;
+}
+
+.Colore{
+width: 80%;
+background-color: white;
+}
+
+.main1{
+    width: 80%;
+    height: 1000px;
+    margin-left: 10%;
+    background-color: red;
+}
+
