@@ -2,17 +2,21 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: aqua;
 }
 
 #Titolo{
-    font-size: 100;
+    font-size: 50px;
     font-weight: bold;
     background-color: white;
+    margin-bottom: 44px;
 }
 
 #Grandezza{
     width: 100%;
     background-color: white;
+    margin: auto;
+    
 }
 
 .Colore{
@@ -20,10 +24,17 @@ width: 80%;
 background-color: white;
 }
 
-.main1{
+main{
     width: 80%;
-    height: 1000px;
-    margin-left: 10%;
+    height: 500px;
+    margin: 0 auto;
     background-color: red;
 }
+#tasto1{
+border-radius: 30%;
+}
+
+#tasto2{
+    border-radius: 30%;
+    }
 
