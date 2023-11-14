@@ -2,9 +2,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: aqua;
 }
 
+body{
+    color: aqua;
+}
 #Titolo{
     font-size: 50px;
     font-weight: bold;
@@ -31,7 +33,7 @@ main{
     background-color: red;
 }
 #tasto1{
-border-radius: 30%;
+    border-radius: 30%;
 }
 
 #tasto2{
