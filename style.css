@@ -37,54 +37,70 @@ main{
     background-color: #47ADF1;
     color: white;
     border-color: #47ADF1;
+    padding: 2px;
     
 }
 
 #tasto2{
     border-radius: 20%;
-    border-color: grey;
+    border-color: lightgray;
     background-color: white;
-    color: grey;
+    color: lightgrey;
+    padding: 2px;
     }
 
-
+.tasti{
+   border: 3px solid #DBDDF1; 
+   margin-top: 30px;
+}
 li{
     list-style: none;
 }
 
 .tasticolorati{
-    border-radius: 20%;
+    border-radius: 15%;
     background-color: #47ADF1;
     color: white;
     border-color: #47ADF1;
+    padding: 2px;
+    
 }
 
 .tasticolorativiola{
-border-radius: 20%;
+border-radius: 15%;
 background-color:violet;
 color: white;
+padding: 2px;
 }
 
 .tasticoloratiazzurro{
-    border-radius: 20%;
+    border-radius: 15%;
 background-color:lightblue;
 color: white;
+padding: 2px;
 }
 
 .Mobile{
-    border-radius: 20%;
+    border-radius: 15%;
 background-color:orange;
 color: white;
+padding: 2px;
 }
 
 .tasticoloratirosa{
-    border-radius: 20%;
+    border-radius: 15%;
     background-color:pink;
     color: white;
+    padding: 2px;
 }
 
 .tasticolorativerde{
-    border-radius: 20%;
+    border-radius: 15%;
     background-color:green;
     color: white;
+    padding: 2px;
+}
+
+.tabella{
+margin-left: 40px;
 }
