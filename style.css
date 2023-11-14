@@ -19,11 +19,12 @@
 }
 
 body{
-    background-color:#DBDDF1;
+    background-color:#F6F8F9;
 }
 .Colore{
-width: 80%;
-background-color: white;
+    idth: 80%;
+    background-color: white;
+    border-radius: 20%;
 }
 
 main{
@@ -31,12 +32,14 @@ main{
     height: 600px;
     margin: 0 auto;
     background-color: white;
+
 }
 #tasto1{
     border-radius: 20%;
     background-color: #47ADF1;
     color: white;
     border-color: #47ADF1;
+    margin-left: 40px;
     padding: 2px;
     
 }
@@ -44,6 +47,8 @@ main{
 thead, li {
     border: none;
     padding: 12px;
+    font-style: italic;
+    
 }
 
 #tasto2{
@@ -52,10 +57,13 @@ thead, li {
     background-color: white;
     color: lightgrey;
     padding: 2px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 5px;
     }
 
 .tasti{
-   border: 3px solid #DBDDF1; 
+   border: 3px solid #F6F8F9; 
    margin-top: 30px;
 
 }
@@ -110,3 +118,4 @@ padding: 2px;
 .tabella{
 margin-left: 40px;
 }
+
