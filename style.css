@@ -4,9 +4,6 @@
     box-sizing: border-box;
 }
 
-body{
-    color: aqua;
-}
 #Titolo{
     font-size: 50px;
     font-weight: bold;
@@ -21,6 +18,9 @@ body{
     
 }
 
+body{
+    background-color:#DBDDF1;
+}
 .Colore{
 width: 80%;
 background-color: white;
@@ -30,13 +30,61 @@ main{
     width: 80%;
     height: 500px;
     margin: 0 auto;
-    background-color: red;
+    background-color: white;
 }
 #tasto1{
-    border-radius: 30%;
+    border-radius: 20%;
+    background-color: #47ADF1;
+    color: white;
+    border-color: #47ADF1;
+    
 }
 
 #tasto2{
-    border-radius: 30%;
+    border-radius: 20%;
+    border-color: grey;
+    background-color: white;
+    color: grey;
     }
 
+
+li{
+    list-style: none;
+}
+
+.tasticolorati{
+    border-radius: 20%;
+    background-color: #47ADF1;
+    color: white;
+    border-color: #47ADF1;
+}
+
+.tasticolorativiola{
+border-radius: 20%;
+background-color:violet;
+color: white;
+}
+
+.tasticoloratiazzurro{
+    border-radius: 20%;
+background-color:lightblue;
+color: white;
+}
+
+.Mobile{
+    border-radius: 20%;
+background-color:orange;
+color: white;
+}
+
+.tasticoloratirosa{
+    border-radius: 20%;
+    background-color:pink;
+    color: white;
+}
+
+.tasticolorativerde{
+    border-radius: 20%;
+    background-color:green;
+    color: white;
+}
