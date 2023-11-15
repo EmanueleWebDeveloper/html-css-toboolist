@@ -4,17 +4,20 @@
     box-sizing: border-box;
 }
 
+html{
+    font-family: sans-serif;
+}
 #Titolo{
-    font-size: 50px;
+    font-size: 20px;
     font-weight: bold;
     background-color: white;
-    margin-bottom: 44px;
+    vertical-align: middle;
 }
 
 #Grandezza{
     width: 100%;
     background-color: white;
-    margin: auto;
+    vertical-align: middle;
     
 }
 
@@ -28,9 +31,8 @@ body{
 }
 
 main{
-    width: 75%;
-    height: 600px;
-    margin: 0 auto;
+    width: 80%;
+    margin: 30px auto 0 auto;
     background-color: white;
 
 }
@@ -81,24 +83,25 @@ li{
 }
 
 .tasticolorativiola{
-border-radius: 15%;
-background-color:violet;
-color: white;
-padding: 2px;
+    border-radius: 15%;
+    background-color:violet;
+    color: white;
+    padding: 2px;
 }
 
 .tasticoloratiazzurro{
     border-radius: 15%;
-background-color:lightblue;
-color: white;
-padding: 2px;
+    background-color:lightblue;
+    color: white;
+    padding: 5px 8px;
+    font-size: 10px;
 }
 
 .Mobile{
     border-radius: 15%;
-background-color:orange;
-color: white;
-padding: 2px;
+    background-color:orange;
+    color: white;
+    padding: 2px;
 }
 
 .tasticoloratirosa{
@@ -116,6 +119,6 @@ padding: 2px;
 }
 
 .tabella{
-margin-left: 40px;
+    margin-left: 40px;
 }
 
